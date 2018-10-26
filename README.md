@@ -4,7 +4,7 @@
 
    ![60ff98603b-emailer](https://user-images.githubusercontent.com/30891813/46539438-1a9e3d00-c8d4-11e8-926c-6311c9db90cd.jpg)
 
-The dataset consisted of 12600 images of 50 different classes of animal. For every image the labelling of 85 attributes are provided and we needed to predict the same on the test dataset.
+The dataset consisted of 12600 images of 50 different classes of animal. For every image the labelling of 85 attributes are provided and we needed to predict the same on the test dataset. You can download the dataset from [here](https://s3-ap-southeast-1.amazonaws.com/he-public-data/DL3%20Datasete37c45e.torrent)(Torrent Link).
 
 Used Keras with TensorFlow backend for the code. An ensembled model of Inception V3 and ResNet models were used for final prediction.
 
