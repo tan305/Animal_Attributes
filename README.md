@@ -1,4 +1,4 @@
-# Predicting Animal_Attributes using Convolutional Networks
+# Predicting Animal Attributes using Convolutional Networks
 
 
 
