@@ -20,7 +20,6 @@ To avoid overfitting we augment the images, it also helps us to train our model 
 Metrics used - F1 Score averaged over the 85 attributes<br>
 Final score - The final F1 score is around **0.97**
 
-Everything is implemented in Jupyter notebook which will hopefully make it easier to understand.
 
 ## Dependencies
 - Keras 2.1.5
